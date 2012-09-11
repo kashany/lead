@@ -10,5 +10,9 @@ class SeriousName{
 	function jalali_to_gregorian($y, $m, $d){
 		// Change 2
 	}
+	
+	function rezakho(){
+		
+	}
 }
 ?>

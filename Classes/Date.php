@@ -6,5 +6,9 @@ class SeriousName{
 	function gregorian_to_jalali ($y, $m, $d){
 		
 	}
+	
+	function jalali_to_gregorian($y, $m, $d){
+		
+	}
 }
 ?>

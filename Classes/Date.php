@@ -14,5 +14,9 @@ class SeriousName{
 	function rezakho(){
 		
 	}
+	
+	function rezakho2(){
+		
+	}
 }
 ?>

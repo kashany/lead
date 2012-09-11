@@ -1,21 +1,10 @@
 ﻿<?php
 class SeriousName{
 	function __construct(){
-		echo ':D';
-	}
-	function gregorian_to_jalali ($y, $m, $d){
-		// Change 1
+		echo ':)';
 	}
 	
-	function jalali_to_gregorian($y, $m, $d){
-		// Change 2
-	}
-	
-	function rezakho(){
-		
-	}
-	
-	function rezakho2(){
+	function rezakho3(){
 		
 	}
 }
